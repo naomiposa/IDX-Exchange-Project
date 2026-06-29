@@ -1,0 +1,7 @@
+{
+  "name": "week-2-project-work-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix WEEK-2-PROJECT-WORK/backend run dev"
+  }
+}
